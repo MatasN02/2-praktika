@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using Praktika2.Helper;
 
-namespace 2-Praktika.Users
+namespace Praktika2.Users
 {
     public class Subject : Teacher
     {
